@@ -4,19 +4,8 @@ Thyroid disease is a very common problem in India, more than one crore people ar
 
 The main objective of this project is to predict if a person is having compensated hypothyroid, primary hypothyroid, secondary hypothyroid or negative (no thyroid) with the help of Machine Learning. Classification algorithms such as Random Forest, XGBoost and KNN Model have been trained on the thyroid dataset, UCI Machine Learning repository. After hyperparameter tuning XGBoost model has performed well with better accuracy, precision and recall. Application has deployed on Heroku with the help of flask framework.
 
-# Webpage Link
 
-## For One-User-Input Prediction
-Heroku: https://tddoneinput.herokuapp.com/
 
-## For Bulk Prediction
-Heroku: https://batchprediction.herokuapp.com/
-
-AWS: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
-
-# Demo
-
-https://user-images.githubusercontent.com/72372136/134773017-d9d26150-0e68-4c2d-8627-b3a64beeac9b.mp4
 
 
 
@@ -108,9 +97,6 @@ The final model is deployed on Heroku using Flask framework.
 - Detailed Project Report: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
 
 
-# Author
-
-Upendra Kumar: https://www.linkedin.com/in/imupendra/
 
 
 # Help Me Improve
